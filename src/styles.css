@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+html,
+body {
+  margin: 0px;
+  /*ubcomment the following for fullscreen*/
+
+  /* height: 100%; */
+  
+}
+app-root {
+  /*ubcomment the following for fullscreen*/
+
+  /* display: block;
+  height: 100%; */
+  background: grey;
+}

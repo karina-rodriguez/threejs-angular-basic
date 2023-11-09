@@ -1,0 +1,28 @@
+
+.viewergl{
+/* position: absolute;
+margin: 0px;
+min-width: 98%;
+min-height: 98%;
+height: 100%;
+width: 100%;
+background:red;
+height:100vh; */
+/* padding: 100px;
+padding-left: 0px; */
+/* border: 10px ridge rgba(211, 220, 50, .6); */
+
+/*ubcomment the following for fullscreen*/
+ /* display: block; 
+height: 100%;
+width: 100%; */
+/* background: grey; */
+}
+view-gl{
+    position: absolute;
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+    /* background:black; */
+    height:100vh;
+}
